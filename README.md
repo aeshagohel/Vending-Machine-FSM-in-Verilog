@@ -139,6 +139,8 @@ endmodule
 
 ## 🧩 RTL View
 
+<img width="959" height="489" alt="image" src="https://github.com/user-attachments/assets/00bcdd7a-0300-4717-98bf-2104b28b0c6f" />
+
 * The RTL view shows the internal structure of the vending machine controller designed using Verilog HDL.
 * It consists of a Finite State Machine, logic blocks, and multiplexers that control product dispensing and coin return based on the inserted amount.
 * The design operates using clock and reset signals and ensures correct state transitions.
