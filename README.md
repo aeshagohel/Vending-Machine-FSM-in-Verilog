@@ -147,6 +147,8 @@ endmodule
 
 ## 📈 Simulation Waveform
 
+<img width="904" height="420" alt="image" src="https://github.com/user-attachments/assets/b85f6280-591d-41c6-ae27-bde6b341511f" />
+
 * The waveform verifies the functional operation of the vending machine.
 * When the required amount is inserted, the dispense signal becomes HIGH.
 * If extra amount is inserted, the return_coin signal is also activated.
